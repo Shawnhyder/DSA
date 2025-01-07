@@ -11,4 +11,3 @@ class Solution:
                 return ind
             else:
                 myDict[nums[i]] = i
-            
